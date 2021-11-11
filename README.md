@@ -5,4 +5,5 @@ Use machine learning techniques to predict sales and automatize production and s
 
 
 
-![image](https://user-images.githubusercontent.com/25214976/138605208-0718adbf-7a2b-4f29-bce7-5a40790694e6.png)
+
+![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/68021998/141260335-85a93129-857b-40fe-a40c-c207a4f7cfeb.png)
