@@ -10,7 +10,7 @@ Use machine learning techniques to predict sales and automatize production and s
 
 2021/10/18 ~ 2021/11/12
 
-
+발표 영상 : https://youtu.be/aANqPYg7hHs
 
 
 APS System 발주자동화 시스템 구축
